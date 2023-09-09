@@ -1,5 +1,5 @@
  <?php
-$url = "https://tokenvolatilebreaker.com/pthrzkya3u?key=0bda29be71b598ad63e0e01dbb6c4e20";
+$url = "https://agitatechampionship.com/vhhixv533?key=eb6e7a01e532f4642794022d50b3a05e";
 
 ?>
 
